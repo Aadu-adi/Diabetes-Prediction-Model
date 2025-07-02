@@ -1,4 +1,4 @@
-Great! Here's an updated GitHub project description tailored specifically for your **Gestational Diabetes Prediction project with a Streamlit UI**:
+
 
 ---
 
@@ -88,5 +88,3 @@ The Random Forest model achieved **\~XX% accuracy** (replace with your metric) a
 * Connect to a cloud-based database for prediction history
 
 ---
-
-Let me know if you want a `README.md` file generated or if you'd like help deploying it online.
